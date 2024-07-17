@@ -26,6 +26,7 @@ public class PalindromeOrNotIfString {
 		// TODO Auto-generated method stub
 		PalindromeOrNotIfString obj=new PalindromeOrNotIfString();
 		obj.palindromeCheck();
+		System.out.println("end of the statement");
 
 	}
 
